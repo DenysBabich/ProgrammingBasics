@@ -19,8 +19,6 @@ int main()
     double area_of_inner = pow(square_inner, 2);         //Площа вписаного у коло квадрата
 
     std::cout << area_of_inner / area_of_outer << std::endl;        //У скільки разів площа вписаного більша, ніж описаного
-
-    std::cin >> end;
 }
 
 double validation()
