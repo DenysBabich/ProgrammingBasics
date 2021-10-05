@@ -6,7 +6,6 @@ double validation();
 
 int main()
 {
-    char end[5];
 
     SetConsoleCP(1251);                                //Встановлення кодування Windows-1251 для вводу
     SetConsoleOutputCP(1251);                        //Встановелння кодування Windows-1251 для виводу
