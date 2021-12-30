@@ -1,2 +1,0 @@
-D:\VSproj\1stLab\Debug\1stLab.exe
-D:\VSproj\1stLab\Debug\1stLab.pdb
