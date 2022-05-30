@@ -1,0 +1,15 @@
+D:\VSproj\Lab_4\Lab_4\bin\Debug\net6.0\Lab_4.exe
+D:\VSproj\Lab_4\Lab_4\bin\Debug\net6.0\Lab_4.deps.json
+D:\VSproj\Lab_4\Lab_4\bin\Debug\net6.0\Lab_4.runtimeconfig.json
+D:\VSproj\Lab_4\Lab_4\bin\Debug\net6.0\Lab_4.dll
+D:\VSproj\Lab_4\Lab_4\bin\Debug\net6.0\ref\Lab_4.dll
+D:\VSproj\Lab_4\Lab_4\bin\Debug\net6.0\Lab_4.pdb
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.csproj.AssemblyReference.cache
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.AssemblyInfoInputs.cache
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.AssemblyInfo.cs
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.csproj.CoreCompileInputs.cache
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.dll
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\ref\Lab_4.dll
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.pdb
+D:\VSproj\Lab_4\Lab_4\obj\Debug\net6.0\Lab_4.genruntimeconfig.cache
